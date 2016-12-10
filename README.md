@@ -15,10 +15,10 @@ An in depth tutorial for learning the Ruby on Rails web framework, from basic pr
 ```
 Section: 1
 Introduction and Installing Rails
-[ ] 1. What is Ruby on Rails? 4:09
-[ ] 2. How to Install Rails on a PC 5:32
-[ ] 3. How to Install Rails on a Mac 9:21
-[ ] Quiz 1: Rails Introduction Quiz 0:00
+[x] 1. What is Ruby on Rails? 4:09
+[x] 2. How to Install Rails on a PC 5:32
+[x] 3. How to Install Rails on a Mac 9:21
+[x] Quiz 1: Rails Introduction Quiz 0:00
 
 Section: 2
 Building your first Rails Application
