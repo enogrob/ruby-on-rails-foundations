@@ -22,13 +22,13 @@ Introduction and Installing Rails
 
 Section: 2
 Building your first Rails Application
-[ ] 4. How to Create a Ruby on Rails Application 1:46
-[ ] 5. Explore the Different Rails App Creation Options 4:44
-[ ] 6. How to Run the Rails Server and View it in the Browser 3:28
-[ ] 7. Explore the List of Database Rake Tasks 6:53
-[ ] 8. How to Use Sublime Text as a Text Editor in Rails 4:11
-[ ] 9. Exploring the File System of a Ruby on Rails Application - Part 1 7:45
-[ ] 10. Exploring the File System of a Ruby on Rails Application - Part 2 12:52
+[x] 4. How to Create a Ruby on Rails Application 1:46
+[x] 5. Explore the Different Rails App Creation Options 4:44
+[x] 6. How to Run the Rails Server and View it in the Browser 3:28
+[x] 7. Explore the List of Database Rake Tasks 6:53
+[x] 8. How to Use Sublime Text as a Text Editor in Rails 4:11
+[x] 9. Exploring the File System of a Ruby on Rails Application - Part 1 7:45
+[x] 10. Exploring the File System of a Ruby on Rails Application - Part 2 12:52
 [ ] 11. Should you Use Scaffolds or Generators? 6:15
 [ ] 12. Creating Your First Rails Scaffold 7:27
 [ ] 13. Reviewing What Scaffolds Create 18:08
