@@ -29,10 +29,10 @@ Building your first Rails Application
 [x] 8. How to Use Sublime Text as a Text Editor in Rails 4:11
 [x] 9. Exploring the File System of a Ruby on Rails Application - Part 1 7:45
 [x] 10. Exploring the File System of a Ruby on Rails Application - Part 2 12:52
-[ ] 11. Should you Use Scaffolds or Generators? 6:15
-[ ] 12. Creating Your First Rails Scaffold 7:27
-[ ] 13. Reviewing What Scaffolds Create 18:08
-[ ] Quiz 2: Quiz on Building Your First Rails Application 0:00
+[x] 11. Should you Use Scaffolds or Generators? 6:15
+[x] 12. Creating Your First Rails Scaffold 7:27
+[x] 13. Reviewing What Scaffolds Create 18:08
+[x] Quiz 2: Quiz on Building Your First Rails Application 0:00
 
 Section: 3
 Rails Console
