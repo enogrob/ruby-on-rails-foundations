@@ -36,11 +36,11 @@ Building your first Rails Application
 
 Section: 3
 Rails Console
-[ ] 14. Introduction to the Rails Console 4:06
-[ ] 15. How to Create Records in the Rails Console 5:47
-[ ] 16. How to Update and Delete Records in the Rails Console 4:25
-[ ] 17. Advanced Database Queries in the Rails Console 10:02
-[ ] Quiz 3: Rails Console Quiz 0:00
+[x] 14. Introduction to the Rails Console 4:06
+[x] 15. How to Create Records in the Rails Console 5:47
+[x] 16. How to Update and Delete Records in the Rails Console 4:25
+[x] 17. Advanced Database Queries in the Rails Console 10:02
+[x] Quiz 3: Rails Console Quiz 0:00
 
 Section: 4
 Routing in Rails
