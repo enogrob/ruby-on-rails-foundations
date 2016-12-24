@@ -44,13 +44,13 @@ Rails Console
 
 Section: 4
 Routing in Rails
-[ ] 18. Introduction to Routes in Ruby on Rails 1:53
-[ ] 19. RESTful Routing in Rails 7:09
-[ ] 20. How to Create a Custom Controller in Rails 2:25
-[ ] 21. How to Create Custom Routes for Non CRUD Pages 3:56
-[ ] 22. How to Set the Homepage for a Rails Application 7:28
-[ ] 23. How to Integrate Routing Redirects in Rails 6:02
-[ ] Quiz 4: Rails Routing Quiz 0:00
+[x] 18. Introduction to Routes in Ruby on Rails 1:53
+[x] 19. RESTful Routing in Rails 7:09
+[x] 20. How to Create a Custom Controller in Rails 2:25
+[x] 21. How to Create Custom Routes for Non CRUD Pages 3:56
+[x] 22. How to Set the Homepage for a Rails Application 7:28
+[x] 23. How to Integrate Routing Redirects in Rails 6:02
+[x] Quiz 4: Rails Routing Quiz 0:00
 
 Section: 5
 Configuring Views
