@@ -54,9 +54,9 @@ Routing in Rails
 
 Section: 5
 Configuring Views
-[ ] 24. Overview of the Master Application Layout File 3:52
-[ ] 25. How to Use View Partials 5:57
-[ ] 26. Advanced ERB Tips 8:59
+[x] 24. Overview of the Master Application Layout File 3:52
+[x] 25. How to Use View Partials 5:57
+[x] 26. Advanced ERB Tips 8:59
 [ ] 27. How to Integrate Images into a Rails Application 3:13
 [ ] 28. How to Integrate Custom CSS Styles Using the Rails Asset Pipeline 6:26
 [ ] 29. Integrating Web Safe Fonts into a Rails Application 3:09
@@ -134,5 +134,3 @@ Summary
 [ ] 73. Course Summary 1:38
 [ ] Quiz 12: Final Quiz 0:00
 ```
-
-
