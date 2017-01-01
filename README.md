@@ -57,11 +57,11 @@ Configuring Views
 [x] 24. Overview of the Master Application Layout File 3:52
 [x] 25. How to Use View Partials 5:57
 [x] 26. Advanced ERB Tips 8:59
-[ ] 27. How to Integrate Images into a Rails Application 3:13
-[ ] 28. How to Integrate Custom CSS Styles Using the Rails Asset Pipeline 6:26
-[ ] 29. Integrating Web Safe Fonts into a Rails Application 3:09
-[ ] 30. How to Integrate a Custom Font into a Rails Application 8:00
-[ ] Quiz 5: Rails Views Quiz 0:00
+[x] 27. How to Integrate Images into a Rails Application 3:13
+[x] 28. How to Integrate Custom CSS Styles Using the Rails Asset Pipeline 6:26
+[x] 29. Integrating Web Safe Fonts into a Rails Application 3:09
+[x] 30. How to Integrate a Custom Font into a Rails Application 8:00
+[x] Quiz 5: Rails Views Quiz 0:00
 
 Section: 6
 Rails Controllers
