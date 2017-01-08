@@ -67,9 +67,9 @@ Section: 6
 Rails Controllers
 [x] 31. Purpose of Controllers in Rails 7:23
 [x] 32. Learn What Methods in Controllers Do 8:18
-[ ] 33. Stay Away from These Controller Antipatterns 4:28
-[ ] 34. Integrating Custom Queries in Rails Controllers 5:57
-[ ] Quiz 6: Rails Controllers Quiz 0:00
+[x] 33. Stay Away from These Controller Antipatterns 4:28
+[x] 34. Integrating Custom Queries in Rails Controllers 5:57
+[x] Quiz 6: Rails Controllers Quiz 0:00
 
 Section: 7
 Rails Models
