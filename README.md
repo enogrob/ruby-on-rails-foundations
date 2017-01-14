@@ -73,8 +73,8 @@ Rails Controllers
 
 Section: 7
 Rails Models
-[ ] 35. Purpose of Models in Rails 3:23
-[ ] 36. Creating Custom Model Files for Algorithm Integration 6:21
+[x] 35. Purpose of Models in Rails 3:23
+[x] 36. Creating Custom Model Files for Algorithm Integration 6:21
 [ ] 37. How to Integrate Custom Database Scopes in a Rails Model File 4:35
 [ ] 38. Using Model Files to Create Database Column Default Values 6:31
 [ ] 39. How to Integrate Validations in Rails with Model Files 2:33
