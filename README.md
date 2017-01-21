@@ -77,9 +77,9 @@ Rails Models
 [x] 36. Creating Custom Model Files for Algorithm Integration 6:21
 [x] 37. How to Integrate Custom Database Scopes in a Rails Model File 4:35
 [x] 38. Using Model Files to Create Database Column Default Values 6:31
-[ ] 39. How to Integrate Validations in Rails with Model Files 2:33
-[ ] 40. How to Generate a Model in Rails 4:08
-[ ] 41. Setting Up Database Relations in a Model File 3:13
+[x] 39. How to Integrate Validations in Rails with Model Files 2:33
+[x] 40. How to Generate a Model in Rails 4:08
+[x] 41. Setting Up Database Relations in a Model File 3:13
 [ ] 42. How to Add a New Column to a Database Using Migrations 3:40
 [ ] 43. Integrating Advanced Callbacks Using a Rails Model File 10:05
 [ ] Quiz 7: Rails Models Quiz 0:00
